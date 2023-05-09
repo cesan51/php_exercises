@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Modificar</title>
+</head>
+<body>
+<form action="modificar_respuesta.php" method="post">
+Ingrese el mail del alumno:
+<input type="text" name="mail"><br>
+<input type="submit" value="buscar">
+</form>
+</body>
+</html>

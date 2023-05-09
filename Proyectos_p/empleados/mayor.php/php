@@ -1,0 +1,10 @@
+<?php
+$numero1=5
+$numero2=4
+if($numero1>$numero2);
+{
+echo"el numero".$numero1."es mayor";
+}
+else{
+echo "el numero".$numero2"es mayor";
+?>
